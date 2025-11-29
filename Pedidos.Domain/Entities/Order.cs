@@ -1,7 +1,7 @@
 using Pedidos.Domain.Enums;
 using Pedidos.Domain.Entities;
 
-namespace Orders.Domain.Entities
+namespace Pedidos.Domain.Entities
 {
     public class Order
     {
